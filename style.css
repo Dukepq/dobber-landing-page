@@ -316,6 +316,7 @@ body {
 @media (max-width: 640px) {
     .toggle-button {
         display: flex;
+        right: 3%;
     }
     .navbar-links {
         display: none;
@@ -375,6 +376,10 @@ body {
 
     #find-your {
         margin-bottom: 10px;
+    }
+
+    #navbar-logo {
+        margin-left: 5%;
     }
 
     #main-section {
